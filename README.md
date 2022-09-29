@@ -1,3 +1,5 @@
+Temporary fork under `lambdaisland` so we can have a release on Clojars.
+
 ![GX Library Banner](/docs/static/img/banner.png)
 
 GX is a data-oriented library for defining and manipulating directed acyclic graph's of state machines, for Clojure(Scipt).
