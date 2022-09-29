@@ -1,4 +1,4 @@
-# [](https://github.com/kepler16/gx.cljc/compare/v2.7.3...v) (2022-07-14)
+# 0.1.248-alpha (2022-09-29 / 265a6f1)
 
 
 
@@ -300,6 +300,3 @@
 ### Bug Fixes
 
 * fix gx repo ([84d9f88](https://github.com/kepler16/gx.cljc/commit/84d9f88cd8d02f1f3a7d9b5781d692e387f43d7e))
-
-
-
