@@ -1,6 +1,4 @@
 {:paths ["src"]
- :mvn/repos {"github-kepler"
-             {:url "https://maven.pkg.github.com/kepler16/gx.cljc"}}
 
  :deps
  {funcool/promesa {:mvn/version "8.0.450"}
